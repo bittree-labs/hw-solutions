@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "updated": "2026-08-25",
+  "items": [
+    {"name": "RTX 4070",              "category": "GPU",  "jd": "RTX 4070 显卡",            "xianyu": "RTX 4070"},
+    {"name": "RTX 4070 SUPER",        "category": "GPU",  "jd": "RTX 4070 SUPER",           "xianyu": "RTX 4070 SUPER"},
+    {"name": "RTX 4060 Ti",           "category": "GPU",  "jd": "RTX 4060 Ti",              "xianyu": "RTX 4060 Ti"},
+    {"name": "RTX 4090",              "category": "GPU",  "jd": "RTX 4090",                 "xianyu": "RTX 4090"},
+    {"name": "RTX 3060",              "category": "GPU",  "jd": null,                       "xianyu": "RTX 3060 显卡"},
+    {"name": "RTX 3060 Ti",           "category": "GPU",  "jd": null,                       "xianyu": "RTX 3060 Ti"},
+    {"name": "RTX 3070",              "category": "GPU",  "jd": null,                       "xianyu": "RTX 3070"},
+    {"name": "RTX 3080",              "category": "GPU",  "jd": null,                       "xianyu": "RTX 3080"},
+    {"name": "RTX 3090",              "category": "GPU",  "jd": null,                       "xianyu": "RTX 3090"},
+
+    {"name": "EPYC 7742",             "category": "CPU",  "jd": "AMD EPYC 7742",            "xianyu": "EPYC 7742"},
+    {"name": "EPYC 7B13",             "category": "CPU",  "jd": null,                       "xianyu": "EPYC 7B13"},
+    {"name": "EPYC 7C13",             "category": "CPU",  "jd": null,                       "xianyu": "EPYC 7C13"},
+    {"name": "EPYC 9654",             "category": "CPU",  "jd": "AMD EPYC 9654",            "xianyu": "EPYC 9654"},
+    {"name": "Xeon 金牌 6230R",        "category": "CPU",  "jd": "至强金牌 6230R",            "xianyu": "至强 6230R"},
+    {"name": "Xeon E5-2680 v4",       "category": "CPU",  "jd": null,                       "xianyu": "E5 2680 v4"},
+    {"name": "Xeon E5-2696 v4",       "category": "CPU",  "jd": null,                       "xianyu": "E5 2696 v4"},
+
+    {"name": "DDR4 ECC 32G 2666",     "category": "内存", "jd": "服务器内存 DDR4 32G 2666 ECC", "xianyu": "DDR4 32G ECC"},
+    {"name": "DDR4 ECC 64G 2933",     "category": "内存", "jd": "服务器内存 DDR4 64G 2933 ECC", "xianyu": "DDR4 64G ECC"},
+    {"name": "DDR5 ECC 32G",          "category": "内存", "jd": "DDR5 32G ECC 服务器",       "xianyu": "DDR5 32G ECC"},
+
+    {"name": "PM9A3 3.84T",           "category": "SSD",  "jd": "PM9A3 3.84T",              "xianyu": "PM9A3 3.84T"},
+    {"name": "PM9A3 1.92T",           "category": "SSD",  "jd": "PM9A3 1.92T",              "xianyu": "PM9A3 1.92T"},
+    {"name": "Solidigm P5520 3.84T",  "category": "SSD",  "jd": "Solidigm P5520",           "xianyu": "P5520 3.84T"},
+    {"name": "企业级 SATA SSD 1.92T",  "category": "SSD",  "jd": null,                       "xianyu": "企业级 SATA SSD 1.92T"},
+
+    {"name": "氦气盘 16T",            "category": "HDD",  "jd": "16T 氦气盘 企业级",          "xianyu": "HC550 16T"},
+    {"name": "氦气盘 18T",            "category": "HDD",  "jd": "18T 氦气盘 企业级",          "xianyu": "18T 氦气盘"},
+
+    {"name": "超微 X11 主板",         "category": "主板", "jd": null,                       "xianyu": "超微 X11 主板"},
+    {"name": "超微 X12 主板",         "category": "主板", "jd": "超微 X12 主板",             "xianyu": "超微 X12 主板"},
+
+    {"name": "服务器电源 1600W",       "category": "电源", "jd": "服务器电源 1600W",          "xianyu": "服务器电源 1600W"},
+    {"name": "服务器电源 2000W",       "category": "电源", "jd": "服务器电源 2000W",          "xianyu": "服务器电源 2000W"},
+    {"name": "长城 1200W 电源",        "category": "电源", "jd": "长城 ATX 电源 1200W",        "xianyu": "长城 1200W 电源"}
+  ]
+}
